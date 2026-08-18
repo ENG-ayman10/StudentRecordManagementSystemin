@@ -1,0 +1,43 @@
+# Visual Studio Auto-Generated & Cache Folders
+.vs/
+.vscode/
+
+# Build Outputs & Binary Directories
+x64/
+x86/
+Debug/
+Release/
+[Bb]in/
+[Oo]bj/
+
+# Intermediate Build Files
+*.obj
+*.exe
+*.out
+*.app
+*.o
+*.pch
+*.ipch
+*.idb
+*.pdb
+*.ilk
+*.aps
+*.res
+*.tlog
+*.log
+*.lastbuildstate
+*.unsuccessfulbuild
+
+# Visual Studio User-Specific Files
+*.user
+*.suo
+*.userosv
+*.slnx.sqlite
+*.db
+
+# Temporary & Environment files
+*.tmp
+*.temp
+.env
+.env.*
+
